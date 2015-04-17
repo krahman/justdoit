@@ -55,6 +55,8 @@ group :development, :test do
 
   # Use Rspec for unit test
   gem 'rspec-rails'
+  # User shoulda-matchers to test validations and associations
+  gem 'shoulda-matchers'
 end
 
 group :production do

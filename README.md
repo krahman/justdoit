@@ -1,5 +1,5 @@
 ### Todo App
-------
+-
 [Just Do It](https://blooming-savannah-5725.herokuapp.com/)
 
 ##### To get started

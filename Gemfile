@@ -52,6 +52,9 @@ group :development, :test do
 
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
+
+  # Use Rspec for unit test
+  gem 'rspec-rails'
 end
 
 group :production do
